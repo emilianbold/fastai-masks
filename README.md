@@ -2,4 +2,4 @@
 
 Traducere și adaptare a https://www.fast.ai/2020/04/13/masks-summary/ în limba Română.
 
-PR sunt binevenite.
+PR sunt binevenite pentru orice corecții, diacritice, etc.
